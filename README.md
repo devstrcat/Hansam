@@ -1,7 +1,7 @@
 # Hansam 클론코딩
 
  ## 메인 사이트
-<a href="https://wonderplace-jsqc0kai7-devstrcats-projects.vercel.app/" target="_blank">![이미지](images/mainsite.png)
+<a href="https://hansam-nn9806iik-devstrcats-projects.vercel.app/" target="_blank">![이미지](images/mainsite.png)
 </a>
 
 ## 정보
@@ -10,7 +10,7 @@
 - 전체 리소스(이미지 등은) 원저작자에게 있습니다.
 - 문제 발생시 연락을 즉시 삭제하겠습니다.
 - 원사이트 : https://shop.hansalim.or.kr/shopping/spMain.do
-- 작업기간 : 2023.11.01 ~ 2023.11.10
+- 작업기간 : 2023.11.15 ~ 2023.11.29
 
 ## 개선사항
 
